@@ -1,0 +1,6 @@
+.venv/
+data/
+geo/
+samples/
+__pycache__/
+*.csv
