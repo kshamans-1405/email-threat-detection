@@ -2,7 +2,7 @@
 
 A mini project that classifies emails as phishing or safe with machine learning, explains the decision, and maps where the message came from using the IP addresses in its headers. The result is a single risk score with the reasons behind it, in a Streamlit app.
 
-**Live demo:** <add your Streamlit link here, or remove this line>
+**Live demo:** < https://email-threat-detection-5uqudrxewzfcb399w9pwrp.streamlit.app/ >
 
 
 ---
